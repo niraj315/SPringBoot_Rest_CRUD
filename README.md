@@ -1,2 +1,2 @@
 # SPringBoot_Rest_CRUD
-SpringBoot CRUD Operation with REST API
+First demo to understand concept of SpringBoot and Rest API
